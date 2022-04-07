@@ -12,14 +12,14 @@ My suckless status monitor configuration.
 
 # Installation
 
-' ' '
+```
 git clone https://github.com/taburetka2344/slstatus
-' ' '
+```
 
-' ' '
+```
 cd slstatus
-' ' '
+```
 
-' ' '
+```
 sudo make clean install
-' ' '
+```
