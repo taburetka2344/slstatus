@@ -8,6 +8,8 @@ My suckless status monitor configuration.
 
 >Free disk space in GB
 
+>Layout (variant) of current keymap
+
 >Date and time
 
 # Installation
