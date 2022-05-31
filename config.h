@@ -68,5 +68,6 @@ static const struct arg args[] = {
 	{ cpu_perc, "[CPU  %s%%]  ", NULL	      },
 	{ ram_used, "[RAM  %s]  ", NULL	      },
 	{ disk_free,"[DISK  %s]  ", "/"	      },
+	{ keymap,   "[%s]  ", NULL		      },
 	{ datetime, "%s",           "%F %T" },
 };
